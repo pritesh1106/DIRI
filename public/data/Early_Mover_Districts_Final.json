@@ -1,0 +1,1298 @@
+[
+  {
+    "State":"Karnataka",
+    "District":"Bengaluru Rural",
+    "DIRI_ML_Scaled":95.2350640215,
+    "AllocatedFDIINR":226717.6823803554,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Karnataka",
+    "District":"Mysuru",
+    "DIRI_ML_Scaled":91.5838240239,
+    "AllocatedFDIINR":271599.0420640529,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Karnataka",
+    "District":"Dakshina Kannada",
+    "DIRI_ML_Scaled":91.2279319507,
+    "AllocatedFDIINR":187594.752962629,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Karnataka",
+    "District":"Udupi",
+    "DIRI_ML_Scaled":87.7518289577,
+    "AllocatedFDIINR":110829.5203781934,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Karnataka",
+    "District":"Ballari",
+    "DIRI_ML_Scaled":85.7470493718,
+    "AllocatedFDIINR":112114.4430259384,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Karnataka",
+    "District":"Kalaburagi",
+    "DIRI_ML_Scaled":85.746374271,
+    "AllocatedFDIINR":119616.414484696,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Karnataka",
+    "District":"Bidar",
+    "DIRI_ML_Scaled":85.7163134392,
+    "AllocatedFDIINR":91636.7296290294,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Karnataka",
+    "District":"Ramanagara",
+    "DIRI_ML_Scaled":84.7378642505,
+    "AllocatedFDIINR":86473.3173891678,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Maharashtra",
+    "District":"Kolhapur",
+    "DIRI_ML_Scaled":83.6831136177,
+    "AllocatedFDIINR":258609.0042007527,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Karnataka",
+    "District":"Davangere",
+    "DIRI_ML_Scaled":82.8437472574,
+    "AllocatedFDIINR":125791.950410166,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Maharashtra",
+    "District":"Raigad",
+    "DIRI_ML_Scaled":82.8237223669,
+    "AllocatedFDIINR":221593.8688707022,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Karnataka",
+    "District":"Hassan",
+    "DIRI_ML_Scaled":82.7702729508,
+    "AllocatedFDIINR":126266.383387795,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Karnataka",
+    "District":"Raichur",
+    "DIRI_ML_Scaled":82.761933731,
+    "AllocatedFDIINR":89296.19360606,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Gujarat",
+    "District":"Bhavnagar",
+    "DIRI_ML_Scaled":82.2043558595,
+    "AllocatedFDIINR":108304.1179599116,
+    "Cluster":4,
+    "ClusterName":"Balanced Growth"
+  },
+  {
+    "State":"Karnataka",
+    "District":"Mandya",
+    "DIRI_ML_Scaled":81.9853867423,
+    "AllocatedFDIINR":112355.6131228998,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Maharashtra",
+    "District":"Chhatrapati Sambhajinagar",
+    "DIRI_ML_Scaled":81.6894313548,
+    "AllocatedFDIINR":256973.7478114156,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Karnataka",
+    "District":"Koppal",
+    "DIRI_ML_Scaled":81.6540000201,
+    "AllocatedFDIINR":69057.6735020388,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Maharashtra",
+    "District":"Sangli",
+    "DIRI_ML_Scaled":81.1170818785,
+    "AllocatedFDIINR":159072.1545078999,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Karnataka",
+    "District":"Dharwad",
+    "DIRI_ML_Scaled":80.9476252661,
+    "AllocatedFDIINR":177651.4284731559,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Karnataka",
+    "District":"Chikkamagaluru",
+    "DIRI_ML_Scaled":80.4273530104,
+    "AllocatedFDIINR":75808.459412884,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Karnataka",
+    "District":"Yadgir",
+    "DIRI_ML_Scaled":80.1965296448,
+    "AllocatedFDIINR":51881.2229077978,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Maharashtra",
+    "District":"Palghar",
+    "DIRI_ML_Scaled":80.1960146522,
+    "AllocatedFDIINR":203696.3155008277,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Gujarat",
+    "District":"Gir Somnath",
+    "DIRI_ML_Scaled":79.7433057028,
+    "AllocatedFDIINR":38257.1559866162,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Maharashtra",
+    "District":"Ahmednagar",
+    "DIRI_ML_Scaled":79.6970189966,
+    "AllocatedFDIINR":255126.6017214264,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Maharashtra",
+    "District":"Solapur",
+    "DIRI_ML_Scaled":79.3734085704,
+    "AllocatedFDIINR":241676.8317091853,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Karnataka",
+    "District":"Kolar",
+    "DIRI_ML_Scaled":78.8223884848,
+    "AllocatedFDIINR":101738.1984443789,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Tamil Nadu",
+    "District":"Tiruppur",
+    "DIRI_ML_Scaled":78.5214484521,
+    "AllocatedFDIINR":51256.7645375684,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Karnataka",
+    "District":"Vijayapura",
+    "DIRI_ML_Scaled":78.4744352357,
+    "AllocatedFDIINR":122931.5149158782,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Uttar Pradesh",
+    "District":"Agra",
+    "DIRI_ML_Scaled":78.4096355351,
+    "AllocatedFDIINR":5659.568210445,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Maharashtra",
+    "District":"Satara",
+    "DIRI_ML_Scaled":77.9114661816,
+    "AllocatedFDIINR":167239.884852317,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Karnataka",
+    "District":"Tumakuru",
+    "DIRI_ML_Scaled":77.6125896129,
+    "AllocatedFDIINR":187948.6008917773,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Karnataka",
+    "District":"Kodagu",
+    "DIRI_ML_Scaled":77.456789957,
+    "AllocatedFDIINR":40024.3520752213,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Tamil Nadu",
+    "District":"Thiruvallur",
+    "DIRI_ML_Scaled":77.3886968484,
+    "AllocatedFDIINR":43213.445922302,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Haryana",
+    "District":"Karnal",
+    "DIRI_ML_Scaled":76.7129470308,
+    "AllocatedFDIINR":67901.8706197703,
+    "Cluster":4,
+    "ClusterName":"Balanced Growth"
+  },
+  {
+    "State":"Karnataka",
+    "District":"Bagalkote",
+    "DIRI_ML_Scaled":76.5506482375,
+    "AllocatedFDIINR":113448.7857755198,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Karnataka",
+    "District":"Haveri",
+    "DIRI_ML_Scaled":76.3279410213,
+    "AllocatedFDIINR":101131.3195938285,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Karnataka",
+    "District":"Shivamogga",
+    "DIRI_ML_Scaled":75.9364517909,
+    "AllocatedFDIINR":134383.1409133967,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Gujarat",
+    "District":"Anand",
+    "DIRI_ML_Scaled":75.4114340204,
+    "AllocatedFDIINR":92983.1117494491,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Maharashtra",
+    "District":"Latur",
+    "DIRI_ML_Scaled":75.2632263254,
+    "AllocatedFDIINR":109875.7368354311,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Rajasthan",
+    "District":"Jaipur",
+    "DIRI_ML_Scaled":75.2176801861,
+    "AllocatedFDIINR":42854.1712710696,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Tamil Nadu",
+    "District":"Salem",
+    "DIRI_ML_Scaled":75.2077613016,
+    "AllocatedFDIINR":56157.9090645326,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Haryana",
+    "District":"Sirsa",
+    "DIRI_ML_Scaled":74.873998317,
+    "AllocatedFDIINR":40420.6677338828,
+    "Cluster":4,
+    "ClusterName":"Balanced Growth"
+  },
+  {
+    "State":"Karnataka",
+    "District":"Uttara Kannada",
+    "DIRI_ML_Scaled":74.6480745063,
+    "AllocatedFDIINR":103790.121072624,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Maharashtra",
+    "District":"Ratnagiri",
+    "DIRI_ML_Scaled":74.6020487299,
+    "AllocatedFDIINR":79586.9117785459,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Kerala",
+    "District":"Ernakulam",
+    "DIRI_ML_Scaled":74.5403117747,
+    "AllocatedFDIINR":13149.9266762784,
+    "Cluster":4,
+    "ClusterName":"Balanced Growth"
+  },
+  {
+    "State":"Haryana",
+    "District":"Kurukshetra",
+    "DIRI_ML_Scaled":74.4692470519,
+    "AllocatedFDIINR":44332.0993445135,
+    "Cluster":4,
+    "ClusterName":"Balanced Growth"
+  },
+  {
+    "State":"Jharkhand",
+    "District":"East Singhbum",
+    "DIRI_ML_Scaled":74.4435608744,
+    "AllocatedFDIINR":27105.4068982152,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Karnataka",
+    "District":"Chitradurga",
+    "DIRI_ML_Scaled":74.3849627951,
+    "AllocatedFDIINR":91628.8224127356,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Gujarat",
+    "District":"Porbandar",
+    "DIRI_ML_Scaled":74.2609974986,
+    "AllocatedFDIINR":25251.4584465926,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Maharashtra",
+    "District":"Jalna",
+    "DIRI_ML_Scaled":74.2102582771,
+    "AllocatedFDIINR":93335.0376921535,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Gujarat",
+    "District":"Junagadh",
+    "DIRI_ML_Scaled":74.1113382247,
+    "AllocatedFDIINR":68941.2410239262,
+    "Cluster":4,
+    "ClusterName":"Balanced Growth"
+  },
+  {
+    "State":"Maharashtra",
+    "District":"Beed",
+    "DIRI_ML_Scaled":74.058324704,
+    "AllocatedFDIINR":106027.5158146203,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Gujarat",
+    "District":"Navsari",
+    "DIRI_ML_Scaled":73.9098859121,
+    "AllocatedFDIINR":54380.1714469184,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Karnataka",
+    "District":"Chikkaballapura",
+    "DIRI_ML_Scaled":73.8429241024,
+    "AllocatedFDIINR":85565.9643194524,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Tamil Nadu",
+    "District":"Erode",
+    "DIRI_ML_Scaled":73.8360865586,
+    "AllocatedFDIINR":35379.8884433212,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Gujarat",
+    "District":"Banas Kantha",
+    "DIRI_ML_Scaled":73.7050830102,
+    "AllocatedFDIINR":98176.4503344767,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Jharkhand",
+    "District":"Ranchi",
+    "DIRI_ML_Scaled":73.6380262021,
+    "AllocatedFDIINR":43984.2542960612,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Haryana",
+    "District":"Yamunanagar",
+    "DIRI_ML_Scaled":73.5154104775,
+    "AllocatedFDIINR":45535.8833111445,
+    "Cluster":4,
+    "ClusterName":"Balanced Growth"
+  },
+  {
+    "State":"Maharashtra",
+    "District":"Nanded",
+    "DIRI_ML_Scaled":73.4172372346,
+    "AllocatedFDIINR":109737.0108430759,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Tamil Nadu",
+    "District":"Namakkal",
+    "DIRI_ML_Scaled":72.9663449645,
+    "AllocatedFDIINR":26303.6752315541,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Karnataka",
+    "District":"Chamarajanagara",
+    "DIRI_ML_Scaled":72.9151744912,
+    "AllocatedFDIINR":52503.9161909358,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Tamil Nadu",
+    "District":"Madurai",
+    "DIRI_ML_Scaled":72.9115794643,
+    "AllocatedFDIINR":45096.5228233935,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Maharashtra",
+    "District":"Dharashiv",
+    "DIRI_ML_Scaled":72.9015131767,
+    "AllocatedFDIINR":77751.1678249146,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Maharashtra",
+    "District":"Wardha",
+    "DIRI_ML_Scaled":72.8623578722,
+    "AllocatedFDIINR":63796.8532788339,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Haryana",
+    "District":"Fatehabad",
+    "DIRI_ML_Scaled":72.8559603334,
+    "AllocatedFDIINR":29443.848938564,
+    "Cluster":4,
+    "ClusterName":"Balanced Growth"
+  },
+  {
+    "State":"Tamil Nadu",
+    "District":"Krishnagiri",
+    "DIRI_ML_Scaled":72.8313784993,
+    "AllocatedFDIINR":30288.0760819836,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Haryana",
+    "District":"Kaithal",
+    "DIRI_ML_Scaled":72.8230825102,
+    "AllocatedFDIINR":39067.8834489871,
+    "Cluster":4,
+    "ClusterName":"Balanced Growth"
+  },
+  {
+    "State":"Haryana",
+    "District":"Ambala",
+    "DIRI_ML_Scaled":72.797228667,
+    "AllocatedFDIINR":43518.4883043149,
+    "Cluster":4,
+    "ClusterName":"Balanced Growth"
+  },
+  {
+    "State":"Andhra Pradesh",
+    "District":"Chittoor",
+    "DIRI_ML_Scaled":72.5424772804,
+    "AllocatedFDIINR":4321.4439978381,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Tamil Nadu",
+    "District":"Cuddalore",
+    "DIRI_ML_Scaled":72.4191099926,
+    "AllocatedFDIINR":30502.875728496,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Gujarat",
+    "District":"Amreli",
+    "DIRI_ML_Scaled":72.4172539161,
+    "AllocatedFDIINR":42055.5243846275,
+    "Cluster":4,
+    "ClusterName":"Balanced Growth"
+  },
+  {
+    "State":"Haryana",
+    "District":"Jind",
+    "DIRI_ML_Scaled":72.3309491209,
+    "AllocatedFDIINR":36863.3717634066,
+    "Cluster":4,
+    "ClusterName":"Balanced Growth"
+  },
+  {
+    "State":"Gujarat",
+    "District":"Devbhumi Dwarka",
+    "DIRI_ML_Scaled":72.2925384122,
+    "AllocatedFDIINR":22018.4408312551,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Gujarat",
+    "District":"Surendranagar",
+    "DIRI_ML_Scaled":72.2320106701,
+    "AllocatedFDIINR":57347.6056713253,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Rajasthan",
+    "District":"Jodhpur",
+    "DIRI_ML_Scaled":72.1629236293,
+    "AllocatedFDIINR":14106.062180984,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Maharashtra",
+    "District":"Jalgaon",
+    "DIRI_ML_Scaled":72.1414979658,
+    "AllocatedFDIINR":167174.3225682588,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Kerala",
+    "District":"Thrissur",
+    "DIRI_ML_Scaled":72.0582601202,
+    "AllocatedFDIINR":9343.4108391126,
+    "Cluster":4,
+    "ClusterName":"Balanced Growth"
+  },
+  {
+    "State":"Tamil Nadu",
+    "District":"Vellore",
+    "DIRI_ML_Scaled":72.0152924513,
+    "AllocatedFDIINR":28031.619054609,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Tamil Nadu",
+    "District":"Thanjavur",
+    "DIRI_ML_Scaled":71.8434281848,
+    "AllocatedFDIINR":28792.9644683582,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Maharashtra",
+    "District":"Parbhani",
+    "DIRI_ML_Scaled":71.7105158073,
+    "AllocatedFDIINR":65446.3623386184,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Haryana",
+    "District":"Hisar",
+    "DIRI_ML_Scaled":71.7001931205,
+    "AllocatedFDIINR":56159.2594910448,
+    "Cluster":4,
+    "ClusterName":"Balanced Growth"
+  },
+  {
+    "State":"Punjab",
+    "District":"Jalandhar",
+    "DIRI_ML_Scaled":71.6943025351,
+    "AllocatedFDIINR":10343.5823243183,
+    "Cluster":4,
+    "ClusterName":"Balanced Growth"
+  },
+  {
+    "State":"Tamil Nadu",
+    "District":"Kanniyakumari",
+    "DIRI_ML_Scaled":71.540283427,
+    "AllocatedFDIINR":27312.7032006646,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Maharashtra",
+    "District":"Bhandara",
+    "DIRI_ML_Scaled":71.5052212039,
+    "AllocatedFDIINR":57133.2547556373,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Tamil Nadu",
+    "District":"Tirunelveli",
+    "DIRI_ML_Scaled":71.3886064889,
+    "AllocatedFDIINR":24617.6305988067,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Tamil Nadu",
+    "District":"Tiruchirappalli",
+    "DIRI_ML_Scaled":71.3354451664,
+    "AllocatedFDIINR":34624.1119092963,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Maharashtra",
+    "District":"Buldhana",
+    "DIRI_ML_Scaled":71.306679629,
+    "AllocatedFDIINR":104056.8465807532,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Tamil Nadu",
+    "District":"Dindigul",
+    "DIRI_ML_Scaled":71.1063277719,
+    "AllocatedFDIINR":28585.0596253142,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Karnataka",
+    "District":"Gadag",
+    "DIRI_ML_Scaled":70.9718232581,
+    "AllocatedFDIINR":64586.1426878861,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Jharkhand",
+    "District":"Hazaribagh",
+    "DIRI_ML_Scaled":70.8300957406,
+    "AllocatedFDIINR":18944.764050487,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Tamil Nadu",
+    "District":"Virudhunagar",
+    "DIRI_ML_Scaled":70.7279220053,
+    "AllocatedFDIINR":25204.7496326071,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Maharashtra",
+    "District":"Chandrapur",
+    "DIRI_ML_Scaled":70.5415724926,
+    "AllocatedFDIINR":77593.4382719629,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Tamil Nadu",
+    "District":"Dharmapuri",
+    "DIRI_ML_Scaled":70.5105055717,
+    "AllocatedFDIINR":23209.4995827814,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Gujarat",
+    "District":"Botad",
+    "DIRI_ML_Scaled":70.45991715,
+    "AllocatedFDIINR":20271.1124820142,
+    "Cluster":4,
+    "ClusterName":"Balanced Growth"
+  },
+  {
+    "State":"Maharashtra",
+    "District":"Akola",
+    "DIRI_ML_Scaled":70.2866977874,
+    "AllocatedFDIINR":80006.8904677306,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Tamil Nadu",
+    "District":"Villupuram",
+    "DIRI_ML_Scaled":70.2249444604,
+    "AllocatedFDIINR":24914.3723326922,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Andhra Pradesh",
+    "District":"Visakhapatnam",
+    "DIRI_ML_Scaled":70.1894009324,
+    "AllocatedFDIINR":5469.1057295874,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Tamil Nadu",
+    "District":"Tuticorin",
+    "DIRI_ML_Scaled":70.1728008454,
+    "AllocatedFDIINR":22613.3642675224,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Andhra Pradesh",
+    "District":"Kurnool",
+    "DIRI_ML_Scaled":69.9640509464,
+    "AllocatedFDIINR":4908.1381880906,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Kerala",
+    "District":"Idukki",
+    "DIRI_ML_Scaled":69.8726159967,
+    "AllocatedFDIINR":3283.619633546,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Gujarat",
+    "District":"Patan",
+    "DIRI_ML_Scaled":69.7219427209,
+    "AllocatedFDIINR":38543.7756857392,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Maharashtra",
+    "District":"Amravati",
+    "DIRI_ML_Scaled":69.6421407186,
+    "AllocatedFDIINR":117763.1646610484,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Punjab",
+    "District":"Patiala",
+    "DIRI_ML_Scaled":69.6121777844,
+    "AllocatedFDIINR":8266.4822284754,
+    "Cluster":4,
+    "ClusterName":"Balanced Growth"
+  },
+  {
+    "State":"Haryana",
+    "District":"Nuh",
+    "DIRI_ML_Scaled":69.5366237134,
+    "AllocatedFDIINR":21708.9998587892,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Gujarat",
+    "District":"Sabar Kantha",
+    "DIRI_ML_Scaled":69.4917609354,
+    "AllocatedFDIINR":52018.8458523084,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Tamil Nadu",
+    "District":"Pudukkottai",
+    "DIRI_ML_Scaled":69.4426927827,
+    "AllocatedFDIINR":18360.0660818293,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Tamil Nadu",
+    "District":"Theni",
+    "DIRI_ML_Scaled":69.4207716,
+    "AllocatedFDIINR":16882.4566616235,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Maharashtra",
+    "District":"Dhule",
+    "DIRI_ML_Scaled":69.3399623945,
+    "AllocatedFDIINR":64663.4156420387,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Tamil Nadu",
+    "District":"The Nilgiris",
+    "DIRI_ML_Scaled":69.2959831759,
+    "AllocatedFDIINR":9457.8140652624,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Tamil Nadu",
+    "District":"Karur",
+    "DIRI_ML_Scaled":69.2036853968,
+    "AllocatedFDIINR":12970.7164323599,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"West Bengal",
+    "District":"North 24 Parganas",
+    "DIRI_ML_Scaled":69.1367576872,
+    "AllocatedFDIINR":18259.441111395,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Rajasthan",
+    "District":"Ganganagar",
+    "DIRI_ML_Scaled":69.0819743285,
+    "AllocatedFDIINR":7987.798000854,
+    "Cluster":4,
+    "ClusterName":"Balanced Growth"
+  },
+  {
+    "State":"Maharashtra",
+    "District":"Yavatmal",
+    "DIRI_ML_Scaled":69.0749645669,
+    "AllocatedFDIINR":80738.5275506996,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Maharashtra",
+    "District":"Gondia",
+    "DIRI_ML_Scaled":68.9607503097,
+    "AllocatedFDIINR":50597.9302664678,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Kerala",
+    "District":"Kottayam",
+    "DIRI_ML_Scaled":68.8252887516,
+    "AllocatedFDIINR":5293.0952321659,
+    "Cluster":4,
+    "ClusterName":"Balanced Growth"
+  },
+  {
+    "State":"Jharkhand",
+    "District":"Saraikela Kharsawan",
+    "DIRI_ML_Scaled":68.7922917131,
+    "AllocatedFDIINR":8860.7691233379,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Maharashtra",
+    "District":"Sindhudurg",
+    "DIRI_ML_Scaled":68.7890599255,
+    "AllocatedFDIINR":51061.6171450248,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Kerala",
+    "District":"Kannur",
+    "DIRI_ML_Scaled":68.7857149875,
+    "AllocatedFDIINR":7016.5461392803,
+    "Cluster":4,
+    "ClusterName":"Balanced Growth"
+  },
+  {
+    "State":"Uttarakhand",
+    "District":"Haridwar",
+    "DIRI_ML_Scaled":68.615060513,
+    "AllocatedFDIINR":3397.3377896143,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Kerala",
+    "District":"Malappuram",
+    "DIRI_ML_Scaled":68.5527626362,
+    "AllocatedFDIINR":8791.022727858,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Maharashtra",
+    "District":"Washim",
+    "DIRI_ML_Scaled":68.4343565781,
+    "AllocatedFDIINR":40096.5626807886,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Tamil Nadu",
+    "District":"Ramanathapuram",
+    "DIRI_ML_Scaled":68.3031891176,
+    "AllocatedFDIINR":14319.9764341559,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Jharkhand",
+    "District":"Ramgarh",
+    "DIRI_ML_Scaled":68.2869292001,
+    "AllocatedFDIINR":10675.6560439986,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"West Bengal",
+    "District":"Howrah",
+    "DIRI_ML_Scaled":68.2085371924,
+    "AllocatedFDIINR":9136.3743198711,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Uttarakhand",
+    "District":"Udam Singh Nagar",
+    "DIRI_ML_Scaled":68.1255737385,
+    "AllocatedFDIINR":3476.9742119296,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Punjab",
+    "District":"Amritsar",
+    "DIRI_ML_Scaled":68.0614082318,
+    "AllocatedFDIINR":9023.6462515181,
+    "Cluster":4,
+    "ClusterName":"Balanced Growth"
+  },
+  {
+    "State":"Tamil Nadu",
+    "District":"Sivaganga",
+    "DIRI_ML_Scaled":68.0319184035,
+    "AllocatedFDIINR":14748.7801729342,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Uttar Pradesh",
+    "District":"Baghpat",
+    "DIRI_ML_Scaled":68.0306332497,
+    "AllocatedFDIINR":1300.6632769247,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Maharashtra",
+    "District":"Hingoli",
+    "DIRI_ML_Scaled":68.0177888637,
+    "AllocatedFDIINR":37893.0998296133,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Kerala",
+    "District":"Kozhikode",
+    "DIRI_ML_Scaled":68.0034805814,
+    "AllocatedFDIINR":9300.9050420771,
+    "Cluster":4,
+    "ClusterName":"Balanced Growth"
+  },
+  {
+    "State":"Gujarat",
+    "District":"Kheda",
+    "DIRI_ML_Scaled":67.9196448095,
+    "AllocatedFDIINR":68416.6480883753,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Kerala",
+    "District":"Kasaragod",
+    "DIRI_ML_Scaled":67.8538218844,
+    "AllocatedFDIINR":3408.4218966481,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Haryana",
+    "District":"Palwal",
+    "DIRI_ML_Scaled":67.7926213056,
+    "AllocatedFDIINR":24420.8056512055,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Andhra Pradesh",
+    "District":"Guntur",
+    "DIRI_ML_Scaled":67.6335900254,
+    "AllocatedFDIINR":5437.6821427944,
+    "Cluster":1,
+    "ClusterName":"MSME Strongholds"
+  },
+  {
+    "State":"Tamil Nadu",
+    "District":"Nagapattinam",
+    "DIRI_ML_Scaled":67.5073198272,
+    "AllocatedFDIINR":9555.9324223113,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Haryana",
+    "District":"Bhiwani",
+    "DIRI_ML_Scaled":67.3912312197,
+    "AllocatedFDIINR":32251.2921445641,
+    "Cluster":4,
+    "ClusterName":"Balanced Growth"
+  },
+  {
+    "State":"Punjab",
+    "District":"Sangrur",
+    "DIRI_ML_Scaled":67.3813402089,
+    "AllocatedFDIINR":4570.1892983877,
+    "Cluster":4,
+    "ClusterName":"Balanced Growth"
+  },
+  {
+    "State":"Tamil Nadu",
+    "District":"Tiruvannamalai",
+    "DIRI_ML_Scaled":67.3780092379,
+    "AllocatedFDIINR":24766.9296123702,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Gujarat",
+    "District":"Panch Mahals",
+    "DIRI_ML_Scaled":67.3599112831,
+    "AllocatedFDIINR":44018.4748928418,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Andhra Pradesh",
+    "District":"Ananthapuramu",
+    "DIRI_ML_Scaled":67.3461793576,
+    "AllocatedFDIINR":5314.7910508472,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Rajasthan",
+    "District":"Bikaner",
+    "DIRI_ML_Scaled":67.3141108378,
+    "AllocatedFDIINR":8815.4872721541,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Andhra Pradesh",
+    "District":"Sri Potti Sriramulu Nellore",
+    "DIRI_ML_Scaled":67.2808581718,
+    "AllocatedFDIINR":4757.0789025146,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Madhya Pradesh",
+    "District":"Indore",
+    "DIRI_ML_Scaled":67.2601281305,
+    "AllocatedFDIINR":6301.9138364496,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Andhra Pradesh",
+    "District":"West Godavari",
+    "DIRI_ML_Scaled":67.1207278315,
+    "AllocatedFDIINR":4858.0413043976,
+    "Cluster":1,
+    "ClusterName":"MSME Strongholds"
+  },
+  {
+    "State":"Rajasthan",
+    "District":"Ajmer",
+    "DIRI_ML_Scaled":67.02345498,
+    "AllocatedFDIINR":11034.0673522434,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Rajasthan",
+    "District":"Bhilwara",
+    "DIRI_ML_Scaled":66.9724856822,
+    "AllocatedFDIINR":9727.9587688116,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Kerala",
+    "District":"Palakkad",
+    "DIRI_ML_Scaled":66.9472563579,
+    "AllocatedFDIINR":7969.5560688499,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Kerala",
+    "District":"Wayanad",
+    "DIRI_ML_Scaled":66.6663696986,
+    "AllocatedFDIINR":2658.0166912743,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Jharkhand",
+    "District":"Dhanbad",
+    "DIRI_ML_Scaled":66.5967535117,
+    "AllocatedFDIINR":27915.4493714983,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Tamil Nadu",
+    "District":"Ariyalur",
+    "DIRI_ML_Scaled":66.5491891735,
+    "AllocatedFDIINR":8433.6705654715,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Andhra Pradesh",
+    "District":"Y.S.R.",
+    "DIRI_ML_Scaled":66.5372551069,
+    "AllocatedFDIINR":4657.2016316864,
+    "Cluster":1,
+    "ClusterName":"MSME Strongholds"
+  },
+  {
+    "State":"Uttar Pradesh",
+    "District":"Lucknow",
+    "DIRI_ML_Scaled":66.4655304455,
+    "AllocatedFDIINR":8061.1116215081,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Rajasthan",
+    "District":"Pali",
+    "DIRI_ML_Scaled":66.3653265104,
+    "AllocatedFDIINR":5884.0504863324,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Gujarat",
+    "District":"Dohad",
+    "DIRI_ML_Scaled":66.1557289892,
+    "AllocatedFDIINR":42737.8896316223,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Uttar Pradesh",
+    "District":"Saharanpur",
+    "DIRI_ML_Scaled":66.1472612403,
+    "AllocatedFDIINR":3674.5358014458,
+    "Cluster":4,
+    "ClusterName":"Balanced Growth"
+  },
+  {
+    "State":"Punjab",
+    "District":"Bathinda",
+    "DIRI_ML_Scaled":66.0891722921,
+    "AllocatedFDIINR":4922.8847672331,
+    "Cluster":4,
+    "ClusterName":"Balanced Growth"
+  },
+  {
+    "State":"Tamil Nadu",
+    "District":"Thiruvarur",
+    "DIRI_ML_Scaled":65.8760150665,
+    "AllocatedFDIINR":13676.638233614,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"West Bengal",
+    "District":"Hooghly",
+    "DIRI_ML_Scaled":65.8353466944,
+    "AllocatedFDIINR":8573.6019705091,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  },
+  {
+    "State":"Punjab",
+    "District":"Moga",
+    "DIRI_ML_Scaled":65.7656011277,
+    "AllocatedFDIINR":3843.2840758992,
+    "Cluster":4,
+    "ClusterName":"Balanced Growth"
+  },
+  {
+    "State":"Punjab",
+    "District":"Faridkot",
+    "DIRI_ML_Scaled":65.6237119483,
+    "AllocatedFDIINR":2234.2931767037,
+    "Cluster":4,
+    "ClusterName":"Balanced Growth"
+  },
+  {
+    "State":"Uttar Pradesh",
+    "District":"Muzaffarnagar",
+    "DIRI_ML_Scaled":65.6075425239,
+    "AllocatedFDIINR":2691.7422449524,
+    "Cluster":4,
+    "ClusterName":"Balanced Growth"
+  },
+  {
+    "State":"Jharkhand",
+    "District":"West Singhbhum",
+    "DIRI_ML_Scaled":65.5851185033,
+    "AllocatedFDIINR":7745.6457185585,
+    "Cluster":0,
+    "ClusterName":"Metro Hubs"
+  }
+]
